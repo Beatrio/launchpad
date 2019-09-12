@@ -1,0 +1,112 @@
+body {
+    background-color: dimgrey;
+}
+
+.launch {
+    display: flex;
+    padding: 30px;
+    background-color: #333;
+    border: 2px solid #aaa;
+    box-shadow: 0px 0px 15px #aaa;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 10%;
+    width: fit-content
+}
+
+.buttons {
+    padding: 0px 10px
+}
+
+button {
+    width: 70px;
+    height: 70px;
+    border: outset 2px;
+    margin: 5px
+}
+
+/* Blue Button */
+.blue button {
+    background-color: #fffbf7;
+    border-color: #333333;
+}
+.blue button:hover {
+    background-color: #53bed1;
+}
+.blue button:active {
+    background-color: #2447ff;
+}
+
+/* Red Button */
+.red button {
+    width: 70px;
+    height: 70px;
+    border: outset 2px;
+    margin: 5px
+}
+.red button {
+    background-color: #fffbf7;
+    border-color: #333333;
+}
+.red button:hover {
+    background-color: #fc636b;
+}
+.red button:active {
+    background-color: red;
+}
+
+/* Orange Button */
+.orange button {
+    width: 70px;
+    height: 70px;
+    border: outset 2px;
+    margin: 5px
+}
+.orange button {
+    background-color: #fffbf7;
+    border-color: #333333
+}
+.orange button:hover {
+    background-color: #fcb05e;
+}
+.orange button:active {
+    background-color: #ff7d25;
+}
+
+
+/* Green Button */
+.green button {
+    width: 70px;
+    height: 70px;
+    border: outset 2px;
+    margin: 5px
+}
+.green button {
+    background-color: #fffbf7;
+    border-color: #333333;
+}
+.green button:hover {
+    background-color: #a5fcbc;
+}
+.green button:active {
+    background-color: #20ff1b;
+}
+
+
+/* Purple Button */
+.purple button {
+    width: 70px;
+    height: 70px;
+    border: outset 2px;
+    margin: 5px
+}
+.purple button {
+    background-color: #fffbf7;
+    border-color: #333333;
+}
+.purple button:hover {
+    background-color: #8279fc;
+}
+.purple button:active {
+    background-color: #4f29ff;
+}
